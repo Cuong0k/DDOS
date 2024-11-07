@@ -1,6 +1,6 @@
 
 
-<h1 align="center">MHDDoS - DDoS Attack Script With 56 Methods</h1>
+<h1 align="center">DDoS Attack Script With 56 Methods</h1>
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 
 <p align="center">Please Don't Attack websites without the owners consent.</p>
